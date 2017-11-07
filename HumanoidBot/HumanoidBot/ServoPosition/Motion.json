@@ -1,1 +1,29 @@
+﻿{
+  "action": [
+    {
+      "actionId": "stand",
+      "actionName": "stand",
+      "isRepeated": "false",
+      "pWMMotion": [
+        {
+          "pinId": 0,
+          "pWM": 150,
+          "InvertPWM": "false"
+        },
+        {
+          "pinId": 1,
+          "pWM": 250,
+          "InvertPWM": "false"
+        },
+        {
+          "pinId": 2,
+          "pWM": 350,
+          "InvertPWM": "false"
+        }
+      ] 
 
+    }
+
+
+  ]
+}
